@@ -74,7 +74,7 @@ function validarCedulaEcuatoriana(cedula) {
   doc.setFont("times", "normal");
   doc.setTextColor(92, 64, 51);
   doc.setFontSize(16);
-  doc.text("Datos del Formulario", 70, 30);
+  doc.text("Datos Centenario", 70, 30);
   doc.setDrawColor(121, 85, 72);
   doc.rect(15, 20, 180, 90);
 
