@@ -66,6 +66,6 @@ function validarCedulaEcuatoriana(cedula) {
     doc.text(`Dirección: ${direccion}`, 20, 80);
     doc.text(`Cédula: ${cedula}`, 20, 90);
   
-    doc.save("datos_formulario.pdf");
+    doc.save("datos centenarios.pdf");
   }
   
